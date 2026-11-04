@@ -21,6 +21,8 @@ Welcome to my Python learning journey! This repository contains my practice prog
 ```bash
 py intro.py
 py bank.py
+py calculator.py
+
 
 ## 🛠️ Technologies
 - Python 3.15
