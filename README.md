@@ -15,6 +15,7 @@ Welcome to my Python learning journey! This repository contains my practice prog
 | `intro.py` | Takes name, age, city and prints introduction | `input()`, `print()`, `f-strings`, `.title()` |
 | `bank.py` | Greeting program based on CS50P | `if`, `elif`, `else`, Conditions |
 | `Git-Demo/App.py` | First Git practice | Git & GitHub |
+| `calculator.py` | 2 numbers ka Calculator (+, -, *, /) | `if-elif-else`, `Nested If`, `float()` |
 
 ## ▶️ How to Run
 ```bash
