@@ -16,6 +16,8 @@ Welcome to my Python learning journey! This repository contains my practice prog
 | `bank.py` | Greeting program based on CS50P | `if`, `elif`, `else`, Conditions |
 | `Git-Demo/App.py` | First Git practice | Git & GitHub |
 | `calculator.py` | 2 numbers ka Calculator (+, -, *, /) | `if-elif-else`, `Nested If`, `float()` |
+| 'grade.py' | Marks sa Pass / Fail aur Excellent batata hai |
+
 
 ## ▶️ How to Run
 ```bash
