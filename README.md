@@ -17,7 +17,7 @@ Welcome to my Python learning journey! This repository contains my practice prog
 | `Git-Demo/App.py` | First Git practice | Git & GitHub |
 | `calculator.py` | 2 numbers ka Calculator (+, -, *, /) | `if-elif-else`, `Nested If`, `float()` |
 | 'grade.py' | Marks sa Pass / Fail aur Excellent batata hai |
-| meal.py | tells user meal time |
+| meal.py | tells user meal time | `if-elif-else`, `Nested If`, `float()`
 
 ## ▶️ How to Run
 ```bash
