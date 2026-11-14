@@ -6,7 +6,7 @@ Welcome to my Python learning journey! This repository contains my practice prog
 - **Name:** Ali Hamza
 - **From:** Gujrat, Punjab, Pakistan
 - **Currently Learning:** Python (CS50P - Harvard University)
-- **Goal:** Become a Python Developer
+- **Goal:** Become a Al/ML Engineer
 
 ## 📁 Projects
 
